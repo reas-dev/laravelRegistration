@@ -89,7 +89,8 @@
                         <h1 class="bg-text d-inline">
                             <b>SPOT IT</b>
                         </h1>
-                        <p class="mt-5">Speak About IT <u>(SPOT IT)</u> merupakan acara Seminar Online yang membahas seputar Teknologi Informasi yang diadakan oleh Himpunan Mahasiswa Teknik Informatika Universitas Dian Nuswantoro. SPOT IT 2020 merupakan acara perdana yang diadakan dengan mengusung tema <u>Develop Career in Cloud Computing Era</u>.</p>
+                        {{-- <p class="mt-5">Speak About IT <u>(SPOT IT)</u> merupakan acara Seminar Online yang membahas seputar Teknologi Informasi yang diadakan oleh Himpunan Mahasiswa Teknik Informatika Universitas Dian Nuswantoro. SPOT IT 2020 merupakan acara perdana yang diadakan dengan mengusung tema <u>Develop Career in Cloud Computing Era</u>.</p> --}}
+                        <p class="mt-5">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius quis amet dicta repellat ipsum voluptatum aspernatur ullam cum, eligendi est. Vero, quisquam! Expedita cum hic sequi? Dolores autem beatae at.</p>
                     </div>
                 </div>
             </div>
@@ -107,22 +108,22 @@
         
                     <div class="row align-items-center" data-aos="fade-right">
                         <div class="col-md-3 text-md-left text-center mb-3 mt-5">
-                            <img class="img-fluid" src="{{ asset('img/pembicara1.png') }}" alt="">
+                            <h1>IMG</h1>
                         </div>
                         <div class="col-md-9">
                             <div class="row">
                                 <div class="col text-md-left text-center">
                                     <h2 class="font-weight-bolder">
-                                        <p>DENY (JASOET) PRASETYO</p>
+                                        <p>Speaker 1</p>
                                     </h2>
                                     <h3 class="mt-4">
-                                        <p>GoPay System automation<br>Lead at Gojek</p>
+                                        <p>status here!</p>
                                     </h3>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col text-md-left text-center">
-                                    <img src="{{ asset('img/gojek-logo.png') }}" height="35px" alt="">
+                                    <h3>logo here!</h3>
                                 </div>
                             </div>
                         </div>
@@ -130,22 +131,22 @@
         
                     <div class="row align-items-center" data-aos="fade-left">
                         <div class="col-md-3 text-center text-md-right order-sm-2 mb-3 mt-5">
-                            <img class="img-fluid" src="{{ asset('img/pembicara2.png') }}" alt="">
+                            <h1>IMG</h1>
                         </div>
                         <div class="col-md-9 text-right order-sm-1">
                             <div class="row">
                                 <div class="col text-center text-md-right">
                                     <h2 class="font-weight-bolder">
-                                        <p>PETRA NOVANDI BARUS</p>
+                                        <p>Speaker 2</p>
                                     </h2>
                                     <h3 class="mt-4">
-                                        <p>Senior Developer Advocate Indonesia<br>PT.Amazon Web Service Indonesia</p>
+                                        <p>status here!</p>
                                     </h3>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col text-center text-md-right">
-                                    <img src="{{ asset('img/aws-logo.png') }}" height="50px" alt="">
+                                    <h3>logo here!</h3>
                                 </div>
                             </div>
                         </div>
