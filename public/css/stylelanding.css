@@ -1,0 +1,75 @@
+body {
+    /* background-color: #fffef1;
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 1px, transparent 2px),
+        linear-gradient(90deg, rgba(0, 0, 0, 0) 2px, transparent 1px),
+        linear-gradient(rgba(0, 0, 0, 0.1) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 0, 0, .1) 1px, transparent 1px);
+    background-size: 100px 100px, 100px 100px, 30px 30px, 30px 30px;
+    background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px; */
+    font-family: 'Open Sans';
+}
+
+/* 
+#home {
+    padding-top: 60px;
+} */
+
+.bg-accent {
+    background-color: #2D1D49 !important;
+}
+
+.text-stroke {
+    -webkit-text-stroke: 0.5px white !important;
+}
+
+u {
+    text-decoration-color: #F2C2D2 !important;
+}
+
+.bg-text {
+    background-color: #F2C2D2 !important;
+}
+
+.bg-memphis {
+    background-color: #2D1D49;
+    background-image: url('/img/memphis-bg.png');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-memphis2 {
+    background-image: url('/img/memphis-bg-2.png');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-wave {
+    background-image: url('/svg/wave1.svg'), url(http://cms.devoffice.com/coding-demo/jeremyLuis/millenium/pattern-bg.png);
+    background-size: 103%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: bottom;
+}
+
+.bg-dashed {
+    background-image: url('/svg/line-dash.svg');
+    background-size: 100%;
+    background-position-y: bottom;
+    background-repeat: no-repeat;
+}
+
+.wave {
+    width: 100%;
+    bottom: -3%;
+}
+
+.line {
+    position: absolute;
+    width: 100%;
+}
+
+.min-vh-80 {
+    min-height: 55vh;
+}
